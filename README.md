@@ -1,17 +1,27 @@
-<h1 align="center">Hi, I'm Samuel Oluwayomi 👋</h1>
-<h3 align="center">Fullstack Developer | Django Ninja | Problem Solver</h3>
+<p align="center">
+  <img src="https://github.com/SamuelOluwayomi/SamuelOluwayomi/assets/your-banner-path/banner.png" alt="Samuel Oluwayomi Banner" />
+</p>
+
+<h1 align="center">Hey there 👋, I'm Samuel Oluwayomi</h1>
+<h3 align="center">Full Stack Developer | Django Ninja | Backend Craftsman</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"/>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate Full Stack Developer with a focus on **Django**, **Django REST Framework**, and **building real-world apps** that scale.
-
-I enjoy solving problems with clean code and have a strong drive to learn, collaborate, and build practical solutions.
-
-- 💼 Currently working on a **social media backend (Entreefox)**  
-- 💻 Love creating REST APIs and scalable backend logic  
-- 🌍 Based in **Nigeria**, open to **remote opportunities**
+```bash
+> Backend developer who builds real-world solutions with Django & DRF  
+> Focused on scalable APIs, clean code, and project impact  
+> Exploring React and frontend skills to become truly full-stack  
+> Open to remote roles 🌍 | Nigeria based 🇳🇬
 
 ---
 
@@ -23,19 +33,49 @@ const professionalJourney = {
     role: "Freelance Developer",
     period: "2025 - Present",
     impact: [
-      "Developed auto repair service website with custom CMS",
-      "Integrated user reviews, animations, and dynamic content",
+      "Developed auto repair business site with a custom CMS",
+      "Added features: service cards, reviews, animations, and Google Maps",
     ],
-    technologies: ["Django", "Bootstrap", "PostgreSQL"]
+    tech: ["Django", "Bootstrap", "Cloudinary", "PostgreSQL"]
   },
   "AutoHub": {
     role: "Full Stack Developer",
     period: "2025",
-    achievements: [
-      "Built an e-commerce platform for car parts",
-      "Implemented cart system, product filtering, and search",
-      "Used Masonry layout for responsive product display"
+    impact: [
+      "E-commerce app for car parts with advanced filtering",
+      "Built cart system using AJAX, merged session cart to DB",
+      "Handled dynamic product listing using Masonry layout"
     ],
-    technologies: ["Django", "JavaScript", "AJAX", "Bootstrap"]
+    tech: ["Django", "JavaScript", "Bootstrap"]
+  },
+  "Entreefox": {
+    role: "Backend Engineer",
+    period: "2025",
+    impact: [
+      "Built a backend for a social media platform (like Threads)",
+      "JWT auth, DRF viewsets, user feed, and post logic"
+    ],
+    tech: ["Django REST", "JWT", "PostgreSQL"]
   }
 }
+
+
+## 🛠 Tech Stack
+Languages:
+  - Python
+  - JavaScript
+Frameworks:
+  - Django
+  - Django REST Framework
+  - Bootstrap
+Tools:
+  - Git & GitHub
+  - Railway
+  - Cloudinary
+  - VS Code
+Database:
+  - PostgreSQL
+  - SQLite
+Learning:
+  - React
+  - Docker (basics)
