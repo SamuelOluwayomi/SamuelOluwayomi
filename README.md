@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Samuel Oluwayomi 👋</h1>
-<h3 align="center">Backend Developer | Django Ninja | Problem Solver</h3>
+<h3 align="center">Fullstack Developer | Django Ninja | Problem Solver</h3>
 
 ---
 
