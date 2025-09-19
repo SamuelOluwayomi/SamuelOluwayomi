@@ -61,7 +61,7 @@ const professionalJourney = {
 ```
 ---
 ## 🛠 Tech Stack
-
+```yaml
 Languages:
   - Python
   - JavaScript
@@ -80,6 +80,7 @@ Database:
   - SQLite
 Learning:
   - Docker
+```
 
 ## 🧠 My Expertise
 
