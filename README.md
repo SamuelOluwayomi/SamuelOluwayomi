@@ -81,6 +81,28 @@ Database:
 Learning:
   - Docker
 
+## 🧠 My Expertise
+
+```js
+const expertise = {
+  languages: [
+    "Python", "JavaScript", "HTML", "CSS"
+  ],
+  backend: [
+    "Django", "Django REST Framework", "PostgreSQL", "SQLite", "JWT Auth", "RESTful APIs"
+  ],
+  frontend: [
+    "React (learning)", "Bootstrap", "Tailwind CSS", "AOS.js", "Masonry Layout"
+  ],
+  tools: [
+    "Git", "GitHub", "VS Code", "Cloudinary", "Railway"
+  ],
+  devops: [
+    "Docker (learning)"
+  ]
+};
+```
+
 ## GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SamuelOluwayomi&show_icons=true&theme=tokyonight" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelOluwayomi&layout=compact&theme=tokyonight" /> </p>
