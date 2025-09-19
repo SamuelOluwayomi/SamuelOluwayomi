@@ -58,24 +58,3 @@ const professionalJourney = {
     tech: ["Django REST", "JWT", "PostgreSQL"]
   }
 }
-
-
-## 🛠 Tech Stack
-Languages:
-  - Python
-  - JavaScript
-Frameworks:
-  - Django
-  - Django REST Framework
-  - Bootstrap
-Tools:
-  - Git & GitHub
-  - Railway
-  - Cloudinary
-  - VS Code
-Database:
-  - PostgreSQL
-  - SQLite
-Learning:
-  - React
-  - Docker (basics)
