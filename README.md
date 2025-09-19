@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/SamuelOluwayomi/SamuelOluwayomi/assets/your-banner-path/banner.png" alt="Samuel Oluwayomi Banner" />
-</p>
-
 <h1 align="center">Hey there 👋, I'm Samuel Oluwayomi</h1>
 <h3 align="center">Full Stack Developer | Django Ninja | Backend Craftsman</h3>
 
@@ -11,6 +7,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
 </p>
 
 ---
@@ -22,12 +19,9 @@
 > Focused on scalable APIs, clean code, and project impact  
 > Exploring React and frontend skills to become truly full-stack  
 > Open to remote roles 🌍 | Nigeria based 🇳🇬
-
----
-
-## 💼 Professional Experience
-
-```js
+💼 Professional Experience
+js
+Copy code
 const professionalJourney = {
   "Tunnel AutoCare": {
     role: "Freelance Developer",
@@ -58,3 +52,45 @@ const professionalJourney = {
     tech: ["Django REST", "JWT", "PostgreSQL"]
   }
 }
+🛠 Tech Stack
+yaml
+Copy code
+Languages:
+  - Python
+  - JavaScript
+Frameworks:
+  - Django
+  - Django REST Framework
+  - Bootstrap
+  - React (learning)
+Tools:
+  - Git & GitHub
+  - Railway
+  - Cloudinary
+  - VS Code
+Database:
+  - PostgreSQL
+  - SQLite
+Learning:
+  - Docker
+📂 Featured Projects
+markdown
+Copy code
+🔗 [AutoHub](https://github.com/SamuelOluwayomi/AutoHub)  
+💬 E-commerce platform for car parts with AJAX cart, filter, and Masonry layout
+
+🔗 [Tunnel AutoCare](https://github.com/SamuelOluwayomi/TunnelAutoCare)  
+🛠 Website for a real-world auto repair company — reviews, services, and map integration
+
+🔗 [Entreefox](https://github.com/SamuelOluwayomi/Entreefox)  
+📱 Social media backend with DRF, JWT, and scalable user features
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SamuelOluwayomi&show_icons=true&theme=tokyonight" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelOluwayomi&layout=compact&theme=tokyonight" /> </p>
+📫 Let's Connect
+bash
+Copy code
+📧 Email: samuel.dev@example.com  
+🐦 Twitter: @samueldev  
+💼 LinkedIn: Samuel Oluwayomi  
+🌍 Portfolio: Coming soon...
+<p align="center"> <em>Built with 💙 by Samuel Oluwayomi</em> </p> ```
