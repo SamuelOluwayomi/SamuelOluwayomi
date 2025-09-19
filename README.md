@@ -19,6 +19,9 @@
 > Focused on scalable APIs, clean code, and project impact  
 > Exploring React and frontend skills to become truly full-stack  
 > Open to remote roles 🌍 | Nigeria based 🇳🇬
+
+---
+
 💼 Professional Experience
 js
 Copy code
