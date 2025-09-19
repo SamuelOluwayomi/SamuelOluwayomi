@@ -22,7 +22,8 @@
 
 ---
 
-💼 Professional Experience
+## 💼 Professional Experience
+
 js
 Copy code
 const professionalJourney = {
