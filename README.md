@@ -9,7 +9,7 @@
 <div align="center">
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,postgres,js,react,solana,docker,git&perline=8&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,django,postgres,js,react,html,docker,git&perline=8&theme=dark" alt="Tech Stack" />
   </a>
 </div>
 
@@ -126,7 +126,7 @@ me.say_hi()
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SamuelOluwayomi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SamuelOluwayomi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelOluwayomi&theme=tokyonight&hide_border=true" />
 </div>
 
