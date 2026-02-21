@@ -2,11 +2,12 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Samuel%20Oluwayomi&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%9C%A6%20Web3%20Enthusiast%20%E2%9C%A6%20Problem%20Solver&descAlignY=53&descAlign=50"/>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=14F195&center=true&vCenter=true&width=700&height=50&lines=Building+Scalable+Backend+Solutions;Exploring+Solana+%26+Kaspa+Ecosystems;Crushing+a+365-Day+Coding+Challenge;Turning+Ideas+into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=14F195&center=true&vCenter=true&width=800&height=40&lines=Building+Scalable+Backend+Solutions;Exploring+Solana+and+Kaspa+Ecosystems;Crushing+a+365-Day+Coding+Challenge" alt="Typing SVG" />
 
 </div>
 
 <div align="center">
+  <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,django,postgres,js,react,solana,docker,git&perline=8&theme=dark" alt="Tech Stack" />
   </a>
