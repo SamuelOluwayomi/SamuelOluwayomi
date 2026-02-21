@@ -1,26 +1,21 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Samuel%20Oluwayomi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Web3%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=51&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Samuel%20Oluwayomi&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%9C%A6%20Web3%20Enthusiast%20%E2%9C%A6%20Problem%20Solver&descAlignY=53&descAlign=50"/>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3DAEF7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+Scalable+Backend+Solutions;Exploring+Solana+%26+Kaspa+Ecosystems;Crushing+a+365-Day+Coding+Challenge;Turning+Ideas+into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=14F195&center=true&vCenter=true&width=700&height=50&lines=Building+Scalable+Backend+Solutions;Exploring+Solana+%26+Kaspa+Ecosystems;Crushing+a+365-Day+Coding+Challenge;Turning+Ideas+into+Reality" alt="Typing SVG" />
 
 </div>
 
 <div align="center">
-  
-  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-  [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-  [![Solana](https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=black)](https://solana.com/)
-  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,postgres,js,react,solana,docker,git&perline=8&theme=dark" alt="Tech Stack" />
+  </a>
 </div>
 
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
 </p>
 
 ## 🚀 About Me
@@ -58,7 +53,7 @@ me.say_hi()
 </details>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
 </p>
 
 ## 💼 Professional Journey & Projects
@@ -75,7 +70,6 @@ me.say_hi()
   - Building CadPay: A robust payment layer on the Kaspa network.
   - Developed a private KAS faucet for testing.
   - Active participant in Superteam Earn bounties.
-  - Deep-dive research on Momntum, Cortex Agent, and CyreneAI within Solana's Internet Capital Markets.
 ```
 
 </td>
@@ -89,11 +83,6 @@ me.say_hi()
   - Social media backend (Threads-like platform)
   - RESTful API with JWT authentication
   - User feed algorithm & post management
-  - Scalable DRF architecture
-  
-💻 Tech Stack: 
-  - Django REST Framework
-  - JWT, PostgreSQL
 ```
 
 </td>
@@ -130,41 +119,7 @@ me.say_hi()
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</p>
-
-## 🛠️ Tech Stack & Expertise
-
-<div align="center">
-
-### Languages & Core Technologies
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-Advanced-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-### Web3 & Blockchain
-![Solana](https://img.shields.io/badge/Solana-Learning-14F195?style=flat-square&logo=solana&logoColor=black)
-![Kaspa](https://img.shields.io/badge/Kaspa-Building-70C7BA?style=flat-square&logo=kaspa&logoColor=black)
-![Web3](https://img.shields.io/badge/Web3-Exploring-F16822?style=flat-square&logo=web3.js&logoColor=white)
-
-### Backend Development
-![Django](https://img.shields.io/badge/Django-Expert-092E20?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST-Expert-ff1709?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-### Frontend Development
-![React](https://img.shields.io/badge/React-Learning-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Advanced-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-Advanced-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-Intermediate-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
 </p>
 
 ## 📊 GitHub Statistics
@@ -174,42 +129,22 @@ me.say_hi()
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelOluwayomi&theme=tokyonight&hide_border=true" />
 </div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelOluwayomi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelOluwayomi&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
 </p>
 
-## 🎯 Current Focus
+## 🐍 Contribution Graph
 
 <div align="center">
-
-```mermaid
-mindmap
-  root((Samuel's Focus))
-    Backend Mastery
-      Django Optimization
-      System Design
-      API Architecture
-    Web3 & Blockchain
-      Solana Ecosystem
-      Kaspa Network
-      Decentralized Finance
-    Frontend Growth
-      React Development
-      Modern CSS
-    DevOps Journey
-      Docker Containers
-      CI/CD Pipelines
-```
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamuelOluwayomi/SamuelOluwayomi/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamuelOluwayomi/SamuelOluwayomi/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SamuelOluwayomi/SamuelOluwayomi/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
 </p>
 
 ## 🤝 Let's Connect
@@ -225,10 +160,10 @@ mindmap
 
 <div align="center">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=SamuelOluwayomi&color=blueviolet&style=for-the-badge&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=SamuelOluwayomi&color=14F195&style=for-the-badge&label=Profile+Views" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer"/>
 
 <div align="center">
   
